@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=vQZ4IvB07ec
 
 
 Bien que les codes soient similaires, j'ai procédé en plusieurs étape:
+
 1- j'ai regardé la vidéo et refait le code tel qu’il est , sans copier-coller
+
 2 -A base d’essai-erreur, j'ai refait le code sans voir et si j'ai des difficultés , je cherche la solution seul sinon je regarde la ligne du code dans l'original
 
